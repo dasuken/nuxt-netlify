@@ -22,10 +22,8 @@
     "contentful": "^8.5.3",
     "dayjs": "^1.10.6",
     "markdown-it-vue": "^1.1.6",
-    "node-sass": "^6.0.1",
     "nuxt": "^2.15.8",
-    "prismjs": "^1.24.1",
-    "sass-loader": "^12.1.0"
+    "prismjs": "^1.24.1"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^6.0.1",
